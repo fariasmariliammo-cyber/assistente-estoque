@@ -1,0 +1,5 @@
+{
+  "name": "assistente-estoque",
+  "description": "Assistente para controle de estoque, vendas e clientes",
+  "requestFramePermissions": []
+}
